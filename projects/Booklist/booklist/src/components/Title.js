@@ -1,0 +1,11 @@
+import React from "react";
+
+const Title = () => {
+  return (
+    <>
+      <h1>Title Card</h1>
+    </>
+  );
+};
+
+export default Title;
